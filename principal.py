@@ -1,29 +1,5 @@
 from customtkinter import *
 
-'''- Criar janela x
-- Mudar titulo x
-- Criar uma Label de título : Protocolo de Insulina x
-- Criar duas Entrys : 'Digite o horário:' e 'Digite a glicemia:' x
-- Criar um botão : 'Enviar' x
-- Label com os Resultados anteriores# - x
-- Colocar um Frame de histórico x
-- Atribuir comando ao botão de Enviar x
-- Bindar o botão Enter ao botão x
-- Apagar entrada de dados quando Enviar x
-- Concatenar resultados x
-- Alterar cores dos textos 
-- Botão de correção
-- Atribuir comando ao botão de correção
-- 
--   
--
-- 
-- 
--
--
-- Implementar backend ao projeto 
-'''
-
 
 def altera_vazao(glicemia):
     global vazao
