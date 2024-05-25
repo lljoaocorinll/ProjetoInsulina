@@ -7,3 +7,4 @@ print(x)
 y = 2
 
 print(y)
+print('Teste')
